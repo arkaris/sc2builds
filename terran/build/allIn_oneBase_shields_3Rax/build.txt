@@ -1,0 +1,17 @@
+00:00	13 и 14 scv
+		supply(23)
+		15! scv
+00:35	1 gaz
+00:40	1 rax
+00:50	supply(31)
+00:58	3 раба на газ
+01:15	+2 rax(3)
+01:26	reactor
+01:38	orbital
+02:03	+reactor, +lab, +2 marine, mule
+02:23	+3 marine, shield, -gaz
+02:42	+5 marine, supply(39)
+
+02:42	5 marine
+03:00	10 marine
+03:40	shields
